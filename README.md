@@ -1,9 +1,13 @@
 #  Hola, soy Jhon Steve La Rosa Chirre
 
-### INGENIERO INFORMÁTICO COLEGIADO (CIP) | EGRESADO DE LA MAESTRÍA EN INGENIERÍA DE SISTEMAS 
-### ESPECIALISTA EN SOPORTE TÉCNICO, REDES E INFRAESTRUCTURA TI | AUTOMATIZACIÓN CON PYTHON & IA
+### Ingeniero Informático Colegiado (CIP) | Python Automation & Backend Developer
 
-Soy un **Ingeniero Informático** de Perú, **Miembro Ordinario del Colegio de Ingenieros del Perú (CIP)** y actualmente cursando la **Maestría en Ingeniería de Sistemas**. Tengo más de **10 años de trayectoria** en soporte técnico, administración de redes e infraestructura TI, y en los últimos años me he especializado en **automatización con Python, bots inteligentes e integración de APIs de IA**.
+Soy un Ingeniero Informático de Perú con más de 10 años de experiencia en infraestructura TI y redes. En los últimos años, me he especializado en **automatización con Python, integración de APIs de IA y desarrollo backend**, creando soluciones que reducen tiempos operativos y optimizan procesos.
+
+- Actualmente trabajando en: Automatización de flujos de datos con **Python, Airtable y FastAPI**.
+- Aprendiendo: **RAG, LangChain y agentes autónomos**.
+- Pregúntame sobre: **Python, APIs, SQL, Docker y GitHub Actions**.
+- Cómo contactarme: [Email](mailto:jhon.larosa.30@gmail.com) | [Portafolio en Peerlist](https://peerlist.io/jhonlarosa30)
 
  **Cómo contactarme:**
 - **LinkedIn:** [Jhon Steve La Rosa Chirre](https://www.linkedin.com/in/jhon-steve-la-rosa-chirre-878562155/)
@@ -86,4 +90,4 @@ Soy un **Ingeniero Informático** de Perú, **Miembro Ordinario del Colegio de I
 
 ### 📊 Mis Estadísticas en GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JHON12091986&show_icons=true&theme=radical&hide=contribs,prs)
+github.com/JHON12091986/fastapi-ai-portfolio
