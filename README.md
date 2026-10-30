@@ -1,6 +1,7 @@
 #  Hola, soy Jhon Steve La Rosa Chirre
 
-### Ingeniero Informático Colegiado (CIP) | Automatización con Python & IA
+### INGENIERO INFORMÁTICO COLEGIADO (CIP) | EGRESADO DE LA MAESTRÍA EN INGENIERÍA DE SISTEMAS 
+### ESPECIALISTA EN SOPORTE TÉCNICO, REDES E INFRAESTRUCTURA TI | AUTOMATIZACIÓN CON PYTHON & IA
 
 Soy un **Ingeniero Informático** de Perú, **Miembro Ordinario del Colegio de Ingenieros del Perú (CIP)** y actualmente cursando la **Maestría en Ingeniería de Sistemas**. Tengo más de **10 años de trayectoria** en soporte técnico, administración de redes e infraestructura TI, y en los últimos años me he especializado en **automatización con Python, bots inteligentes e integración de APIs de IA**.
 
