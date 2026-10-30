@@ -1,17 +1,17 @@
-# 👋 Hola, soy Jhon Steve La Rosa Chirre
+#  Hola, soy Jhon Steve La Rosa Chirre
 
 ### Ingeniero Informático Colegiado (CIP) | Automatización con Python & IA
 
 Soy un **Ingeniero Informático** de Perú, **Miembro Ordinario del Colegio de Ingenieros del Perú (CIP)** y actualmente cursando la **Maestría en Ingeniería de Sistemas**. Tengo más de **10 años de trayectoria** en soporte técnico, administración de redes e infraestructura TI, y en los últimos años me he especializado en **automatización con Python, bots inteligentes e integración de APIs de IA**.
 
-📫 **Cómo contactarme:**
+ **Cómo contactarme:**
 - **LinkedIn:** [Jhon Steve La Rosa Chirre](https://www.linkedin.com/in/jhon-steve-la-rosa-chirre-878562155/)
 - **Email:** [jhon.larosa.30@gmail.com](mailto:jhon.larosa.30@gmail.com)
 - **GitHub:** [@JHON12091986](https://github.com/JHON12091986)
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+###  Mi Stack Tecnológico
 
 *   **Lenguajes:** Python, Java, C++, SQL
 *   **Backend & Automatización:** FastAPI, Django, Flask, scripts de automatización
@@ -22,7 +22,7 @@ Soy un **Ingeniero Informático** de Perú, **Miembro Ordinario del Colegio de I
 
 ---
 
-### 💼 Experiencia Profesional Destacada
+###  Experiencia Profesional Destacada
 
 *   **Gobierno Regional de Lima – Dirección Regional de Agricultura (2026 – Actualidad)**
     *   Inventariador en el área de Contabilidad, con manejo de sistemas de gestión patrimonial (SIGA) y elaboración de informes técnicos.
@@ -31,7 +31,7 @@ Soy un **Ingeniero Informático** de Perú, **Miembro Ordinario del Colegio de I
 
 ---
 
-### 🚀 Proyectos Destacados
+###  Proyectos Destacados
 
 *   **[Mi-Bot-Trading (API de Alertas de Trading)](https://github.com/JHON12091986/mi-bot-trading)**
     *   Bot de trading automatizado que monitorea acciones y criptomonedas en tiempo real. Calcula el RSI y envía alertas a Telegram cuando un activo está en sobreventa o sobrecompra.
@@ -48,7 +48,7 @@ Soy un **Ingeniero Informático** de Perú, **Miembro Ordinario del Colegio de I
 
 ---
 
-### 🏅 Certificaciones y Formación (más de 2,500 horas)
+###  Certificaciones y Formación (más de 2,500 horas)
 
 **Formación Académica:**
 *   **Maestría en Ingeniería de Sistemas** (en curso)
