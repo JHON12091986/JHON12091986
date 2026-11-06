@@ -7,7 +7,7 @@ Soy un Ingeniero Informático de Perú con más de 10 años de experiencia en in
 - Actualmente trabajando en: Automatización de flujos de datos con **Python, Airtable y FastAPI**.
 - Aprendiendo: **RAG, LangChain y agentes autónomos**.
 - Pregúntame sobre: **Python, APIs, SQL, Docker y GitHub Actions**.
-- Cómo contactarme: [Email](mailto:jhon.larosa.30@gmail.com) | [Portafolio en Peerlist](https://peerlist.io/jhonlarosa30)
+- Cómo contactarme: [Email](mailto:jhon.larosa.30@gmail.com) | [Portafolio WEB]([(https://jhon12091986.github.io/mi-portafolio/))]
 
  **Cómo contactarme:**
 - **LinkedIn:** [Jhon Steve La Rosa Chirre](https://www.linkedin.com/in/jhon-steve-la-rosa-chirre-878562155/)
