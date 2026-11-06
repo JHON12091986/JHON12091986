@@ -1,6 +1,6 @@
 #  Hola, soy Jhon Steve La Rosa Chirre
 
-### Ingeniero Informático Colegiado (CIP) | Python Automation & Backend Developer
+### IT Infrastructure & Networks | Python Automation & AI | Technical Support
 
 Soy un Ingeniero Informático de Perú con más de 10 años de experiencia en infraestructura TI y redes. En los últimos años, me he especializado en **automatización con Python, integración de APIs de IA y desarrollo backend**, creando soluciones que reducen tiempos operativos y optimizan procesos.
 
