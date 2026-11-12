@@ -29,10 +29,17 @@ Soy un Ingeniero Informático de Perú con más de 10 años de experiencia en in
 
 ###  Experiencia Profesional Destacada
 
-*   **Gobierno Regional de Lima – Dirección Regional de Agricultura (2026 – Actualidad)**
-    *   Inventariador en el área de Contabilidad, con manejo de sistemas de gestión patrimonial (SIGA) y elaboración de informes técnicos.
-*   **FISSAL – Ministerio de Salud (MINSA), Oficina de Tecnologías de Información (OTI)**
+*   **FISSAL – Ministerio de Salud (MINSA), Oficina de Tecnologías de Información (OTI) - 2026** 
     *   Mantenimiento de cómputo y soporte TI en un entorno crítico de salud pública, asegurando la continuidad operativa.
+*   **Gobierno Regional de Lima – Dirección Regional de Agricultura (2021 – 2025)**
+    *   Inventariador en el área de Contabilidad, con manejo de sistemas de gestión patrimonial (SIGA) y elaboración de informes técnicos.
+      IT & Administrative Specialist — Works Unit
+*   **MINSA — PRONIS, Lima, Peru**
+    *  May 2018 – Dec 2019
+•
+Digitized Works Unit documentation and provided technical support on institutional systems and daily IT tools.
+•
+Created an indexed Excel archive with hyperlinks to generated PDF documentation; classified and archived the documentary collection.
 
 ---
 
